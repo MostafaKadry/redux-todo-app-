@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.2002c804.css",
-    "main.js": "/react-gh-pages/static/js/main.804483ae.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.2002c804.css.map": "/react-gh-pages/static/css/main.2002c804.css.map",
-    "main.804483ae.js.map": "/react-gh-pages/static/js/main.804483ae.js.map"
+    "main.css": "/redux-todo-app-/static/css/main.2002c804.css",
+    "main.js": "/redux-todo-app-/static/js/main.804483ae.js",
+    "index.html": "/redux-todo-app-/index.html",
+    "main.2002c804.css.map": "/redux-todo-app-/static/css/main.2002c804.css.map",
+    "main.804483ae.js.map": "/redux-todo-app-/static/js/main.804483ae.js.map"
   },
   "entrypoints": [
     "static/css/main.2002c804.css",
