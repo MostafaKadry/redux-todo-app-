@@ -1,0 +1,28 @@
+.poemLines-container{
+    border: 1px solid;
+    padding: 1rem;
+    margin-top:1rem;
+    transform: translateY(-1000%);
+    display: none;
+    transition: transform 1s, display 2s;
+}
+.active-poemLines{
+    transform: translateX(0);
+    display: block;
+}
+.close-poemLines{
+    text-align: right !important;
+    color: red;
+    cursor: pointer;
+    display:inline-block;
+    width: 50%;
+
+}
+.add-to-fav-btn{
+    text-align: left !important;
+    color: #00ff95;
+    cursor: pointer;
+    display: inline-block;
+    width: 50%;
+
+}

@@ -1,0 +1,10 @@
+.back-to-all-poems-btn{
+    display: block;
+    width: 25%;
+}
+.not-found-msg{
+    width: 90%;
+    text-align: center;
+    color: crimson;
+    margin: auto;
+}
